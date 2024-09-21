@@ -2,3 +2,4 @@ alpine
 nginx
 #支持私库
 openjdk:8-jre
+python:3.10.5
